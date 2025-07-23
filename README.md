@@ -1,5 +1,7 @@
+# EEGNET and ATCNET improvement
+- EEGNET baseline
+
 # EEGNet for Motor Imagery Classification
-한슬선배가 돌려보라고 한 eeg코드임
 
 ## Introduction
 Welcome to the EEGNet for Motor Imagery Classification repository! This project focuses on implementing a convolutional neural network (CNN) model based on the EEGNet architecture for classifying motor imagery tasks using electroencephalography (EEG) data. The model is designed to classify between four different motor imagery classes: Left Hand, Right Hand, Foot, and Tongue.
